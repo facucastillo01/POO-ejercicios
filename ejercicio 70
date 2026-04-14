@@ -1,0 +1,14 @@
+Inicio
+↓
+numeroSecreto = random(1-10)
+intentos = 3
+↓
+Mientras intentos > 0
+    Leer intento
+    ¿intento == numeroSecreto?
+        Sí → "Ganaste" → Fin
+    intentos--
+Fin Mientras
+↓
+"Perdiste"
+Fin

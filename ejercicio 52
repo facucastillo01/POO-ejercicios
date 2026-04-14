@@ -1,0 +1,12 @@
+Inicio
+↓
+Leer num1, num2
+↓
+¿num1 > num2?
+ ├─ Sí → Mostrar num1
+ └─ No →
+      ¿num2 > num1?
+       ├─ Sí → Mostrar num2
+       └─ No → Mostrar "Son iguales"
+↓
+Fin

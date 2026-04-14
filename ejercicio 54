@@ -1,0 +1,13 @@
+Inicio
+↓
+Leer n1, n2, n3
+↓
+mayor = n1
+↓
+¿n2 > mayor? → mayor = n2
+↓
+¿n3 > mayor? → mayor = n3
+↓
+Mostrar mayor
+↓
+Fin

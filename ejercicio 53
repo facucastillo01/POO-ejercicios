@@ -1,0 +1,9 @@
+Inicio
+↓
+Leer num1, num2
+↓
+¿num1 > 0 Y num2 > 0? → "Ambos positivos"
+¿num1 > 0 O num2 > 0? → "Uno positivo"
+Sino → "Ninguno positivo"
+↓
+Fin
